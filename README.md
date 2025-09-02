@@ -5,6 +5,7 @@ It includes exploratory data analysis, reprocessing, model training, evaluation,
 
 ## File Structure
 - islamic_crowdfunding_success_prediction.ipynb → main notebook
+- requirements.txt → List of Python dependencies required to run the notebook.  
 - data/ → (not included in repo, ignored via .gitignore)
 
 ## How to Run
